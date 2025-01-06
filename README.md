@@ -1,3 +1,3 @@
 # portfolio webpage
 
-A portfolio webpage showcasing the work of my young data science career.
+A portfolio webpage showcasing the work of a young data science career.
